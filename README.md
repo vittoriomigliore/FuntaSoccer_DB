@@ -28,6 +28,8 @@ place script in a directory, run php and... wait
 
 ## Info returned
 
+The script will return JSON formatted object of this form:
+
 ```
 League: id, name
 Team: id, name, logo-url, league-id
